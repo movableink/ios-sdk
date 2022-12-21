@@ -27,7 +27,7 @@ binary "https://raw.githubusercontent.com/movableink/ios-sdk/main/Carthage/Movab
 In the root of your project, run
 
 ```bash
-$ carthage update
+$ carthage update --use-xcframeworks
 ```
 
 ### CocoaPods - Coming Soon
