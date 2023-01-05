@@ -30,14 +30,14 @@ In the root of your project, run
 $ carthage update --use-xcframeworks
 ```
 
-### CocoaPods - Coming Soon
+### CocoaPods
 
 ```ruby
 # Podfile
 use_frameworks!
 
 target "YOUR_TARGET_NAME" do
-  pod "MovableInk", "0.5.0"
+  pod "MovableInk", podspec: "https://raw.githubusercontent.com/movableink/ios-sdk/0.5.0/MovableInk.podspec"
 end
 ```
 
