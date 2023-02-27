@@ -46,3 +46,7 @@ Replace YOUR_TARGET_NAME and then, in the Podfile directory, run:
 ```bash
 $ pod install
 ```
+
+## Usage Documentation
+
+Documentation can be found at [https://sdk-mobile.movableink.com](https://sdk-mobile.movableink.com).
