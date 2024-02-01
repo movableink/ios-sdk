@@ -21,8 +21,8 @@ let package = Package(
   targets: [
    .binaryTarget(
      name: "MovableInk",
-     url: "https://github.com/movableink/ios-sdk/releases/download/1.3.0/MovableInk.xcframework.zip",
-     checksum: "5965abd64ae516994c75611fb57245a70d5ec6c039fd9861af0bcd05a0bfd58d"
+     url: "https://github.com/movableink/ios-sdk/releases/download/1.4.0/MovableInk.xcframework.zip",
+     checksum: "977491129556b39751deacaebc88395c17f0f0b48405528c418fc68fb3d2ac01"
    ),
   ]
 )
