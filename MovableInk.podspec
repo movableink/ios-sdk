@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "MovableInk"
-  s.version          = "1.4.1"
+  s.version          = "1.5.0"
   s.ios.deployment_target = "13.0"
   s.platform = :ios, "13.0"
   s.summary          = "MovableInk SDK"
