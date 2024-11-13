@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/movableInk/ios-sdk"
   s.author           = { "MovableInk": "dev@movableink.com" }
   s.source           = { :http => "https://github.com/movableink/ios-sdk/releases/download/#{s.version.to_s}/MovableInk.xcframework.zip" }
-  s.swift_version = "5.7"
+  s.swift_version = "6.0"
   s.ios.vendored_frameworks = "MovableInk.xcframework"
 end
