@@ -21,7 +21,7 @@ The MovableInk SDK requires iOS 13 and Swift 5.7 (Xcode 14) as a minimum.
 ```
 # Cartfile
 
-binary "https://raw.githubusercontent.com/movableink/ios-sdk/main/Carthage/MovableInkSDK.json" == 2.1.0
+binary "https://raw.githubusercontent.com/movableink/ios-sdk/main/Carthage/MovableInkSDK.json" == 2.2.0
 ```
 
 In the root of your project, run
@@ -37,7 +37,7 @@ $ carthage update --use-xcframeworks
 use_frameworks!
 
 target "YOUR_TARGET_NAME" do
-  pod "MovableInk", podspec: "https://raw.githubusercontent.com/movableink/ios-sdk/2.1.0/MovableInk.podspec"
+  pod "MovableInk", podspec: "https://raw.githubusercontent.com/movableink/ios-sdk/2.2.0/MovableInk.podspec"
 end
 ```
 
