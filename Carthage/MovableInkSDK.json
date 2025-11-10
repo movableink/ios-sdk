@@ -27,5 +27,6 @@
   "1.7.3": "https://github.com/movableink/ios-sdk/releases/download/1.7.3/MovableInk.xcframework.zip",
   "2.0.0": "https://github.com/movableink/ios-sdk/releases/download/2.0.0/MovableInk.xcframework.zip",
   "2.0.1": "https://github.com/movableink/ios-sdk/releases/download/2.0.1/MovableInk.xcframework.zip",
-  "2.1.0": "https://github.com/movableink/ios-sdk/releases/download/2.1.0/MovableInk.xcframework.zip"
+  "2.1.0": "https://github.com/movableink/ios-sdk/releases/download/2.1.0/MovableInk.xcframework.zip",
+  "2.2.0": "https://github.com/movableink/ios-sdk/releases/download/2.2.0/MovableInk.xcframework.zip"
 }
